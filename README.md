@@ -1,6 +1,6 @@
 # 🌾 OpenHack Yield Farming Challenge 💰
 
-This challenge involves creating a smart contract for yield farming where users can stake LP tokens and earn rewards. You'll learn about DeFi mechanics, reward distribution, and staking mechanisms in Solidity. 🚀
+This challenge involves creating a smart yield-farming contract where users can stake LP tokens and earn rewards. You'll learn about DeFi mechanics, reward distribution, and staking mechanisms in Solidity. 🚀
 
 ## 🎯 Challenge Overview
 
@@ -147,7 +147,7 @@ View tickets and activities that you can contribute: [Community Activities 🎯]
 
 - **🌱 Help to grow the community:** Community growth is a collective effort. By actively engaging with and inviting fellow enthusiasts to join our community, you play a crucial role in expanding our network. Encourage discussions, share valuable insights, and foster a welcoming environment for newcomers.
 
-- **🎓 Participate in workshops and events:** Be an active participant in our workshops and events. These sessions serve as valuable opportunities to learn, collaborate, and stay updated on the latest developments in the Polkadot ecosystem. Through participation, you not only enhance your knowledge but also contribute to the collaborative spirit of OpenGuild. Share your experiences, ask questions, and forge connections with like-minded individuals.
+- **🎓 Participate in workshops and events:** Participate actively in our workshops and events. These sessions are valuable opportunities to learn, collaborate, and stay updated on the latest developments in the Polkadot ecosystem. Through participation, you not only enhance your knowledge but also contribute to the collaborative spirit of OpenGuild. Share your experiences, ask questions, and forge connections with like-minded individuals.
 
 - **💡 Propose project ideas:** Your creativity and innovation are welcomed at OpenGuild. Propose project ideas that align with the goals of our community. Whether it's a new application, a tool, or a solution addressing a specific challenge in the Polkadot ecosystem, your ideas can spark exciting collaborations.
 
