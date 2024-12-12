@@ -7,7 +7,8 @@ The **OpenGuild Labs ** makes the repository to introduce OpenHack workshop part
 Add your information to the below list to officially participate in the workshop challenge (This is the first mission of the whole workshop)
 
 | Emoji | Name            | Github Username                                       | Occupations              |
-|       | Ippo            | [NTP-996](https://github.com/NTP-996)                 | DevRel                   |
+| ----- | --------------- | ----------------------------------------------------- | ------------------------ |
+|   🎅  | Ippo            | [NTP-996](https://github.com/NTP-996)                 | DevRel                   |
 
 ## 💻 Local development environment setup
 
