@@ -1,5 +1,7 @@
 # 🌾 OpenHack Yield Farming Challenge 💰
 
+![image](./public/assets/OpenHack_Yield_Farming_Challenge.png)
+
 The **OpenGuild Labs** makes the repository to introduce OpenHack workshop participants to Solidity and help the participants to get familiar with the language. This challenge involves creating a smart yield-farming contract where users can stake LP tokens and earn rewards. You'll learn about DeFi mechanics, reward distribution, and staking mechanisms in Solidity and deploy on PolkaVM. 🚀
 
 ## Participant Registration
