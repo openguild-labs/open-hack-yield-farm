@@ -45,7 +45,7 @@ npm --version
 
 
 ```bash
-git clone git@github.com:NTP-996/open-hack-yield-farm.git
+git clone git@github.com:openguild-labs/open-hack-yield-farm.git
 cd open-hack-yield-farm
 npm i
 ```
