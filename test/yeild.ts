@@ -132,11 +132,9 @@ describe("YieldFarm", function () {
     it("Should allow users to claim rewards", async function () {
       await yieldFarm.connect(user1).stake(stakeAmount);
       await time.increase(7 * 24 * 3600); // Forward 7 days
-
       const beforeBalance = await rewardToken.balanceOf(user1.address);
       await yieldFarm.connect(user1).claimRewards();
       const afterBalance = await rewardToken.balanceOf(user1.address);
-
       expect(afterBalance).to.be.gt(beforeBalance);
     });
   });
